@@ -6,10 +6,11 @@ I'm a mobile developer🫰
 
 ### 🚶‍♀️ Projects
 
-![StarryKids](https://github-readme-stats.vercel.app/api/pin/?username=Tatsumi0000&repo=starry-kids)
-![goisumobilereport](https://github-readme-stats.vercel.app/api/pin/?username=Tatsumi0000&repo=goisumobilereport)
-![ADVIS](https://github-readme-stats.vercel.app/api/pin/?username=katLab-MiyazakiUniv&repo=ADVIS)
-![ALPS](https://github-readme-stats.vercel.app/api/pin/?username=katLab-MiyazakiUniv&repo=ALPS)
+[![StarryKids](https://github-readme-stats.vercel.app/api/pin/?username=Tatsumi0000&repo=starry-kids)](https://github.com/Tatsumi0000/starry-kids)
+[![goisumobilereport](https://github-readme-stats.vercel.app/api/pin/?username=Tatsumi0000&repo=goisumobilereport)](https://github.com/Tatsumi0000/goisumobilereport/)
+[![ADVIS](https://github-readme-stats.vercel.app/api/pin/?username=katLab-MiyazakiUniv&repo=ADVIS)](https://github.com/katLab-MiyazakiUniv/ADVIS)
+[![ALPS](https://github-readme-stats.vercel.app/api/pin/?username=katLab-MiyazakiUniv&repo=ALPS)](https://github.com/katLab-MiyazakiUniv/ALPS)
+
 
 <!--
 **Tatsumi0000/Tatsumi0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

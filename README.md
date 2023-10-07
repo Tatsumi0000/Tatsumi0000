@@ -1,4 +1,5 @@
 ### 👋 Hi there
+I'm a mobile developer🫰
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tatsumi0000&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi0000&layout=compact&theme=tokyonight)

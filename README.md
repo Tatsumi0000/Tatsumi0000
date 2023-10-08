@@ -4,6 +4,10 @@ I'm a mobile developer🫰
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tatsumi0000&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi0000&layout=compact&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatsumi0000&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tatsumi0000&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🚶‍♀️ Projects
 
 [![StarryKids](https://github-readme-stats.vercel.app/api/pin/?username=Tatsumi0000&repo=starry-kids)](https://github.com/Tatsumi0000/starry-kids)

@@ -1,6 +1,8 @@
 ### 👋 Hi there
 I'm a mobile developer🫰
 
+This is my blog > [私的歌詞倉庫](https://blog.aespa.love/)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tatsumi0000&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi0000&layout=compact&theme=tokyonight)
 

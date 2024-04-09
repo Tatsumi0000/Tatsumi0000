@@ -1,11 +1,13 @@
 ### 👋 Hi there
 I'm a mobile developer🫰
 
-This is my blog > [私的歌詞倉庫](https://blog.aespa.love/)
+My blog > [私的歌詞倉庫](https://blog.aespa.love/)
 
 ### 🧑‍💻 Service I Developed
 - [StarryKids](https://starry-kids.soleil-luminas.com/)
   - Converts input text into moon pictograms🌝
+- [Raelize](https://github.com/Tatsumi0000/Raelize)
+  - macOS IME tool for English😆
 
 ### 🛠️ My skills
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tatsumi0000&count_private=true&show_icons=true&theme=tokyonight)
@@ -16,7 +18,7 @@ This is my blog > [私的歌詞倉庫](https://blog.aespa.love/)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tatsumi0000&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🚶‍♀️ Projects
-
+[![Raelize](https://github-readme-stats.vercel.app/api/pin/?username=Tatsumi0000&repo=raelize)](https://github.com/Tatsumi0000/Raelize)
 [![StarryKids](https://github-readme-stats.vercel.app/api/pin/?username=Tatsumi0000&repo=starry-kids)](https://github.com/Tatsumi0000/starry-kids)
 [![goisumobilereport](https://github-readme-stats.vercel.app/api/pin/?username=Tatsumi0000&repo=goisumobilereport)](https://github.com/Tatsumi0000/goisumobilereport/)
 [![ADVIS](https://github-readme-stats.vercel.app/api/pin/?username=katLab-MiyazakiUniv&repo=ADVIS)](https://github.com/katLab-MiyazakiUniv/ADVIS)

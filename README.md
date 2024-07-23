@@ -4,7 +4,7 @@ I'm a mobile developer🫰
 My blog > [私的歌詞倉庫](https://blog.aespa.love/)
 
 ### 🧑‍💻 Service I Developed
-- [StarryKids](https://starry-kids.soleil-luminas.com/)
+- [StarryKids](https://starry-kids.soleil-luminas.com/) | [Repository](https://github.com/Tatsumi0000/starry-kids/)
   - Converts input text into moon pictograms🌝
 - [Raelize](https://github.com/Tatsumi0000/Raelize)
   - macOS IME tool for English😆

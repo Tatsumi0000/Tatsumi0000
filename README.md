@@ -1,7 +1,7 @@
 ### 👋 Hi there
 I'm a mobile developer🫰
 
-My blog > [私的歌詞倉庫](https://blog.tatsumi0000.com/)
+My blog > [私的歌詞倉庫](https://www.tatsumi0000.com/)
 
 ### 🧑‍💻 Service I developed
 - [LottieBook](https://github.com/Tatsumi0000/lottie-book)
